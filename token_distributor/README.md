@@ -18,3 +18,5 @@ Install requirements
 Start script and provide additional info
 
 `python token_distributor.py`
+
+When script finishes, a \<your_file\>_out.csv will be generated, with a new column "tx", which will help you monitor sendout transaction status.

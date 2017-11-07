@@ -19,4 +19,4 @@ Start script and provide additional info
 
 `python token_distributor.py`
 
-When script finishes, a \<your_file\>_out.csv will be generated, with a new column "tx", which will help you monitor sendout transaction status.
+When script finishes, a \<your_file\>_out.csv will be generated, with a new column "tx", transaction hash, which will help you monitor sendout transaction status (e.g. on www.etherscan.io).
